@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-server": "npm install",
-    "start-server": "node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
